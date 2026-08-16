@@ -623,8 +623,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 ## ✉️ Contato
 
 **Autor:** Rhuan Honorato  
-**Email:** seu-email@example.com  
-**GitHub:** [@seu-usuario](https://github.com/seu-usuario)
+**Email:** rhuandemelo1@gmail.com 
+**GitHub:** [@rhuan1234](https://github.com/rhuan1234)
 
 ---
 
